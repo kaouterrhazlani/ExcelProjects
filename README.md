@@ -1,7 +1,7 @@
 # ExcelProjects
 This Excel project presents an analysis of bike sales through data cleaning and the creation of an interactive dashboard.
 ## 🛠️ Important Links & Tools:
-- **Microsoft Excel
+- Microsoft Excel
 # 🚲 Bike Sales - Excel Data Cleaning & Dashboard Project
 
 This project offers a comprehensive analysis of bike sales by cleaning raw data and building an interactive Excel dashboard.
